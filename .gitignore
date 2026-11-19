@@ -1,0 +1,9 @@
+out/
+cache/
+broadcast/
+.env
+.env.local
+dist/
+.playwright-mcp/
+node_modules/
+tai nguyen/
